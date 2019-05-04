@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Welcome to the GSPS Unofficial Website!"
+date:   2019-04-21
+categories: blog
+---
+If you are reading this, it means this site is working properly ~~and you should get a life~~! 
