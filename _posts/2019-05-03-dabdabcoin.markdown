@@ -91,7 +91,7 @@ You can see that by changing the **magic word** to "aaaactucxy", the hash will b
 # How do I mine dabdabcoin?
 1. [Click here](/iii/2019/05/03/dabdabminer_binaries.zip) to download the dabdabcoin miner.
 2. Extract the files from the zip folder.
-3. If you are using Windows, open a command prompt in the download folder and type **dabdabminer_windows**. If you are using Ubuntu, open a terminal and type **./dabdabminer_ubuntu**.
+3. If you are using Windows, double-click **windows.bat**. If you are using Ubuntu, open a terminal and type **./dabdab_ubuntu**.
 
 If you are using MacOS, ChromeOS, or some other non-Linux operating system, you could:
 - get rid of your garbage operating system and switch to [Ubuntu](https://www.ubuntu.com/download/desktop) (highly recommended)
