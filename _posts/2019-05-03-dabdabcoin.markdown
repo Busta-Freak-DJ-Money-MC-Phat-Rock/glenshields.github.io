@@ -80,7 +80,7 @@ Each block in the dabdabcoin blockchain stores the following data (plus the prev
 - comment (anything which the miner wants to say)
 - magic word (10 lowercase letters)
 
-Other than the **magic word**, all of the other data in block is fixed before being mined. Mining means changing the **magic word** of the block being mined so that the [hexadecimal](https://whatis.techtarget.com/definition/hexadecimal) **hash** of the block will begin with "dabdab".
+Other than the **magic word**, all of the other data in a block is fixed before being mined. Mining means changing the **magic word** of a block so that the [hexadecimal](https://whatis.techtarget.com/definition/hexadecimal) **hash** of the block will begin with "dabdab" and the block can be added to the end of the blockchain.
 
 Take the first dabdabcoin block as an example: **Peter Ye_05022019_dabdabdabdabdabdabdabdabdabdabdabdabdabdabdabdabdabdabdabdabeeee_mined using an Intel Celeron J1900_aaaactucxy**
 
